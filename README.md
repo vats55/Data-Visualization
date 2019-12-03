@@ -9,3 +9,4 @@ Step 2-  Summary Statistics / Grouped Data
 
 Step 3 - Data Visualization
 
+The .csv file used is uploaded along with the ipynb file.
